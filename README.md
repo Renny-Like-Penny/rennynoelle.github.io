@@ -11,7 +11,6 @@ theme: jekyll-theme-architect
 
 [Link to LinkedIn](www.linkedin.com/in/renny-clements-a606031a0) 
 
-### Jekyll Themes
 
 ### _About Me:_
 
