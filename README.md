@@ -2,7 +2,7 @@
 theme: jekyll-theme-architect 
 
 
-## **Welcome to Renny Clements's First Website <3** :ocean:
+## **Welcome to Renny Clements's First Website** :ocean:
 
 ![Profile](/c/Users/renny/Pictures/Profile.JPG^C)
 
