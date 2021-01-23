@@ -1,3 +1,5 @@
+theme: jekyll-theme-architect 
+
 ## **Welcome to Renny Clements's Website <3** :ocean:
 
 ![Profile](/c/Users/renny/Pictures/Profile.JPG^C)
