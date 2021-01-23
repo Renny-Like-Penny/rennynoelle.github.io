@@ -1,8 +1,6 @@
 ## Welcome to RennyNoelle's Website <3
 
-You can use the [editor on GitHub](https://github.com/RennyNoelle/rennynoelle.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image]
 
 ### Background:
 My name is Renny Clements and I was born and raised in Virginia Beach my whole life. I am a Senior Chemistry major with a concentration in ACS at James Madison University. My favorite things to do are bake, go to the beach, and play with puppies or really any animal.
