@@ -19,7 +19,7 @@ My name is Renny Clements and I was born and raised in Virginia Beach my whole l
 
 1. Chucky
 2. Nightmare on Elm Street
-3. Scream
+3. Friday The 13th
 
 Now these are some of my favorites:
 
