@@ -14,10 +14,13 @@
 ### _About Me:_
 
 My name is Renny Clements and I was born and raised in Virginia Beach my whole life. I am a Senior Chemistry major with a concentration in ACS at James Madison University. My favorite things to do are bake, go to the beach, and play with puppies or really any animal. I have a huge love for horror movies as I grew up watching movies like:
+
 1. Chucky
 2. Nightmare on Elm Street
 3. Scream
+
 Now these are some of my favorites:
+
 1. Oculus
 2. Woman in Black 
 3. The Annabelle series
