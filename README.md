@@ -1,6 +1,9 @@
 
 theme: jekyll-theme-architect 
 
+#p1 {background-color: rgba(0, 255, 251, 0.733);}
+
+
 
 ## **Welcome to Renny Clements's First Website** :ocean:
 
